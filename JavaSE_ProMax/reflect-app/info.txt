@@ -1,0 +1,6 @@
+name=黄海冰
+age=21
+gender=女
+info=美丽动人
+name=黄海冰的宝马
+mode=举世唯双
